@@ -1,0 +1,6 @@
+[submodule "exams"]
+	path = exams
+	url = git@github.com:algoshimo/test.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = git@github.com:algoshimo/learning-cxx.git
